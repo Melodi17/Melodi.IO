@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Melodi.IO</id>
+    <version>1.0.5</version>
+    <authors>Melodi</authors>
+    <projectUrl>https://github.com/Melodi17/Melodi-Nuget-Documentation</projectUrl>
+    <description>A simple package</description>
+    <repository type="Documentation" url="https://github.com/Melodi17/Melodi-Nuget-Documentation" />
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\melod\source\repos\Libraries\Melodi.IO\Melodi.IO\bin\Debug\net5.0\Melodi.IO.dll" target="lib\net5.0\Melodi.IO.dll" />
+  </files>
+</package>

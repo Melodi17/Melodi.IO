@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Melodi.IO", "Melodi.IO\Melodi.IO.csproj", "{D3FAAF0F-2771-461F-8891-B25C4040BEFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3FAAF0F-2771-461F-8891-B25C4040BEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FAAF0F-2771-461F-8891-B25C4040BEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3FAAF0F-2771-461F-8891-B25C4040BEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3FAAF0F-2771-461F-8891-B25C4040BEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

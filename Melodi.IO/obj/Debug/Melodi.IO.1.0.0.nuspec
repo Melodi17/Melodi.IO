@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Melodi.IO</id>
+    <version>1.0.0</version>
+    <authors>Melodi.IO</authors>
+    <description>A simple package</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\melod\repos\Melodi.IO\Melodi.IO\bin\Debug\net5.0\Melodi.IO.dll" target="lib\net5.0\Melodi.IO.dll" />
+  </files>
+</package>
